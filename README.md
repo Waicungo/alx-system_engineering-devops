@@ -1,1 +1,1 @@
-# Intro shell basics
+# Shell basics
