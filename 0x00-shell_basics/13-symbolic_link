@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -s Documents/alx-system_engineering/0x00-shell_basics /bin/ls 
